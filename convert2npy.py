@@ -3,6 +3,7 @@
 Tue Mar 01 2016
 
 @author: D WANG dxw1481@rit.edu
+Based on the EDQ script by Sol Simpson and Raimondas Zemblys
 
 convert hdf5 files into numpy array and txt files
 
